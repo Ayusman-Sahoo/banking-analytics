@@ -1,0 +1,6 @@
+customer_id,customer_name,city,account_type
+C001,Rahul Sharma,Bhubaneswar,SAVINGS
+C002,Priya Patel,Mumbai,CURRENT
+C003,Amit Kumar,Bengaluru,SAVINGS
+C004,Neha Singh,Delhi,SAVINGS
+C005,Sanjay Das,Bhubaneswar,CURRENT

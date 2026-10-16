@@ -1,0 +1,6 @@
+customer_id,customer_name,city,account_type,branch_id,branch_name,region,service_tier,successful_volume,transaction_count,failed_transaction_count,largest_successful_transaction,loan_count,original_loan_amount,outstanding_loan_amount,overdue_loan_count,risk_band,activity_segment,branch_customer_rank
+C001,Rahul Sharma,Bhubaneswar,SAVINGS,BR001,Bhubaneswar Heritage,East,Platinum,81500.00,3,0,55000.00,2,2380000.00,1822000.00,0,MEDIUM,Highly Active,1
+C005,Sanjay Das,Bhubaneswar,CURRENT,BR001,Bhubaneswar Heritage,East,Platinum,10800.00,2,0,10000.00,1,300000.00,210000.00,0,LOW,Active,2
+C002,Priya Patel,Mumbai,CURRENT,BR002,Mumbai Central,West,Flagship,75000.00,2,1,75000.00,1,500000.00,125000.00,1,HIGH,Active,1
+C003,Amit Kumar,Bengaluru,SAVINGS,BR003,Bengaluru Tech Park,South,Digital Hub,62200.00,2,0,60000.00,1,900000.00,425000.00,0,LOW,Active,1
+C004,Neha Singh,Delhi,SAVINGS,BR004,New Delhi Connaught Place,North,Flagship,120000.00,1,0,120000.00,2,3450000.00,2800000.00,0,MEDIUM,Active,1

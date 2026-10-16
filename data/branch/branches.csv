@@ -1,0 +1,5 @@
+branch_id,branch_name,city,region,service_tier
+BR001,Bhubaneswar Heritage,Bhubaneswar,East,Platinum
+BR002,Mumbai Central,Mumbai,West,Flagship
+BR003,Bengaluru Tech Park,Bengaluru,South,Digital Hub
+BR004,New Delhi Connaught Place,Delhi,North,Flagship

@@ -1,0 +1,5 @@
+branch_id,branch_name,city,region,service_tier,customer_count,successful_volume,transaction_count,outstanding_loan_amount,high_risk_customers
+BR003,Bengaluru Tech Park,Bengaluru,South,Digital Hub,1,62200.00,2,425000.00,0
+BR004,New Delhi Connaught Place,Delhi,North,Flagship,1,120000.00,1,2800000.00,0
+BR002,Mumbai Central,Mumbai,West,Flagship,1,75000.00,2,125000.00,1
+BR001,Bhubaneswar Heritage,Bhubaneswar,East,Platinum,2,92300.00,5,2032000.00,0
